@@ -1,2 +1,2 @@
 # Image-steganography
-Codes to encripy and decript the data into images
+Codes to encrypy and dencrypt the data into images
